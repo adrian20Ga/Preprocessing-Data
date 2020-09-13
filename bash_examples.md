@@ -16,3 +16,14 @@ cd documents
 <h2> ls </h2>
 
 this command will lists the contents of your current working directory.
+
+
+
+
+
+
+
+
+
+<h2> /dev/null </h2>
+
